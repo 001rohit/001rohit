@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @001rohit
+- 👋 Hi, I’m rohit
 - 👀 I’m interested in FULL STACK
 - 🌱 I’m currently learning MERN STACK
 
